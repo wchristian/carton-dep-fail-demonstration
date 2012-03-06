@@ -1,0 +1,11 @@
+File:         02packages.details.txt
+URL:          http://www.perl.com/CPAN/modules/02packages.details.txt
+Description:  Package names found in carton.lock
+Columns:      package name, version, path
+Intended-For: Automated fetch routines, namespace documentation.
+Written-By:   Carton v0.9.3
+Line-Count:   2
+Last-Updated: Tue Mar  6 17:04:58 2012
+
+Test::Fatal                           0.010  R/RJ/RJBS/Test-Fatal-0.010.tar.gz
+Try::Tiny                              0.11  D/DO/DOY/Try-Tiny-0.11.tar.gz
